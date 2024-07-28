@@ -1,2 +1,0 @@
-/home/yuichi/session/cpp/worley-noise/build/CMakeFiles/edit_cache.dir
-/home/yuichi/session/cpp/worley-noise/build/CMakeFiles/rebuild_cache.dir
